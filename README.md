@@ -3,4 +3,4 @@ Esse projeto foi feito junto ao curso Lógica de programação, da Alura. O obje
 
 Clique [aqui](https://sorteador-numeros-taupe.vercel.app/) para testar o projeto.
 
-![](.img/Captura de tela.png)
+![](img/Captura%20de%20tela.png)
